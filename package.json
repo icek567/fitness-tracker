@@ -9,11 +9,20 @@
     "watch": "nodemon server.js",
     "seed": "node seeders/seed.js"
   },
-  "author": "",
+  "author": "Sergio Perez",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
     "mongoose": "^5.9.2",
     "morgan": "^1.9.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icek567/fitness-tracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/icek567/fitness-tracker/issues"
+  },
+  "homepage": "https://github.com/icek567/fitness-tracker#readme"
 }
